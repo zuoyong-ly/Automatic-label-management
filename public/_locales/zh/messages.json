@@ -1,0 +1,10 @@
+{
+  "extensionDescription": {
+    "description": "Extension description",
+    "message": "Automatic label management developed with Vite, React and Typescript"
+  },
+  "extensionName": {
+    "description": "拓展名",
+    "message": "自动标签管理"
+  }
+}
